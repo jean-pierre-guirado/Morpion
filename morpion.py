@@ -157,10 +157,7 @@ def verifier_victoire(valeurs):
     
     return False
 
-
-# ========================================
 # PARTIE 4 : INTELLIGENCE ARTIFICIELLE
-# ========================================
 
 def recuperer_valeurs(board, signe, position, valeur_magique):
     """
